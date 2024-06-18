@@ -4,3 +4,4 @@ Este repositorio contiene una recopilación de toda la práctica de diagramas de
 
 - [TPN3 - Funciones, pasaje de parámetros por copia](https://github.com/erme07/algoritmos-y-estructuras-de-datos/tree/main/TPN3)
 - [TPN4 - Vectores y punteros](https://github.com/erme07/algoritmos-y-estructuras-de-datos/tree/main/TPN4)
+- [Matrices](https://github.com/erme07/algoritmos-y-estructuras-de-datos/tree/main/Matrices)
