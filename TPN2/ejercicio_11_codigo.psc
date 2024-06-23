@@ -26,5 +26,8 @@ Algoritmo ejercicio_11_codigo
 			Escribir 'Categoria inexistente'
 	FinSegún
 	sueldo <- antiguedad*650+horas*valorcat
+	Si sueldo>20000 Entonces
+		Escribir 'El sueldo supera los $20000'
+	FinSi
 	Escribir 'El sueldo es: $', sueldo
 FinAlgoritmo
