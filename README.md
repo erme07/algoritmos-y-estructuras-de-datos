@@ -13,3 +13,4 @@ Este repositorio contiene una recopilación de toda la práctica de diagramas de
 9. [Matrices](https://github.com/erme07/algoritmos-y-estructuras-de-datos/tree/main/Matrices)
 10. [TPN5 - Funciones, pasaje de parámetros por referencia](https://github.com/erme07/algoritmos-y-estructuras-de-datos/tree/main/TPN5)
 11. [Adicionales_3](https://github.com/erme07/algoritmos-y-estructuras-de-datos/tree/main/Adicionales_3)
+12. [Parciales](https://github.com/erme07/algoritmos-y-estructuras-de-datos/tree/main/Parciales)
