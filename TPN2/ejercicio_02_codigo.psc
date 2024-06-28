@@ -1,5 +1,5 @@
 Algoritmo ejercicio_02_codigo
-	// Dados 2 números si el primero es mayor que el segundo restarlos sino
+	// Dados 2 nï¿½meros si el primero es mayor que el segundo restarlos sino
 	// multiplicarlos. informar el resultado.
 	Escribir 'Ingrese el primer numero (a)'
 	Leer num1
@@ -8,6 +8,6 @@ Algoritmo ejercicio_02_codigo
 	Si num1>num2 Entonces
 		Escribir 'a - b = ', num1-num2
 	SiNo
-		Escribir 'a * b = ', num1+num2
+		Escribir 'a * b = ', num1*num2
 	FinSi
 FinAlgoritmo
