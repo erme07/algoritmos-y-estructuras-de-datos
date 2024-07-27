@@ -14,3 +14,4 @@ Este repositorio contiene una recopilación de toda la práctica de diagramas de
 10. [TPN5 - Funciones, pasaje de parámetros por referencia](https://github.com/erme07/algoritmos-y-estructuras-de-datos/tree/main/TPN5)
 11. [Adicionales_3](https://github.com/erme07/algoritmos-y-estructuras-de-datos/tree/main/adicionales_3)
 12. [Parciales](https://github.com/erme07/algoritmos-y-estructuras-de-datos/tree/main/Parciales)
+13. [TP Grupal](https://github.com/erme07/algoritmos-y-estructuras-de-datos/tree/main/TP_Grupal)
